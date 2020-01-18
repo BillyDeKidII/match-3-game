@@ -1,4 +1,6 @@
 ///@description Iniciando Variaveis
+randomize();
+
 image_speed = 0;
 image_index = irandom(8);
 depth = -y;
@@ -19,3 +21,5 @@ finalTouchPositionX = x;
 finalTouchPositionY = y;
 swipeDirection = noone;
 isControlling = false;
+
+alarm[0] = 5;
