@@ -10,6 +10,8 @@ width = 32;
 
 column = (x - 88) / width;
 row = (y - 216) / width;
+previousColumn = column;
+previousRow = row;
 
 //Movimento Gemas
 targetX = x;
@@ -19,7 +21,11 @@ firstTouchPositionX = x;
 firstTouchPositionY = y;
 finalTouchPositionX = x;
 finalTouchPositionY = y;
+
 swipeDirection = noone;
+
 isControlling = false;
+
+otherGem = noone;
 
 alarm[0] = 5;
