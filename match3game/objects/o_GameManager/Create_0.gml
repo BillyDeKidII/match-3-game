@@ -1,4 +1,4 @@
-/// Inicializando o game
+///@description Inicializando o game
 
 width = 10;
 height = 14;
@@ -12,5 +12,6 @@ for(var i = 0; i < width; i++)
 	for(var j = 0; j < height; j++)
 	{
 		instance_create_layer(offset * i + xstart, offset * j + ystart, 0, o_BackgroundTile);
+		instance_create_layer(offset * i + xstart, offset * j + ystart, 0, o_Gem);
 	}
 }

@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "3ab39bff-62c2-4e30-a3f9-9d658f8a298c",
+            "Value": {
+                "id": "db08547c-f35d-40c4-817c-429ad8c73b7f",
+                "resourcePath": "objects\\o_Gem\\o_Gem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "42286663-7804-4850-aa1a-701e17286bf6",
             "Value": {
                 "id": "c8c26291-ba24-4135-97c6-1785eccca95a",
