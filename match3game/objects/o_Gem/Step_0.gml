@@ -17,3 +17,8 @@ if (point_distance(x, y, x, targetY) > 2)
 {
 	y = targetY;
 }
+
+if (image_alpha == .2 && o_GameManager.state == "Wait")
+{
+	o_GameManager.state = "Destroy";
+}

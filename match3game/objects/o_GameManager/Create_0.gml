@@ -17,3 +17,4 @@ for(var i = 0; i < width; i++)
 }
 
 alarm[0] = 20;
+state = "Fill";

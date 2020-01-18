@@ -13,5 +13,6 @@ with(o_Gem)
 		instance_destroy();
 	}
 }
-
-alarm[0] = 20;
+state = "Fill";
+alarm[1] = 30;
+//alarm[0] = 20;
