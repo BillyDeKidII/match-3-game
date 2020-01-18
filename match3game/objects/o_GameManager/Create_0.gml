@@ -1,11 +1,11 @@
 ///@description Inicializando o game
 
-width = 10;
-height = 14;
+width = 6;
+height = 10;
 
 offset = 32;
-xstart = 26;
-ystart = 144;
+xstart = 88;
+ystart = 216;
 
 for(var i = 0; i < width; i++)
 {
