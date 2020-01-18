@@ -15,3 +15,5 @@ for(var i = 0; i < width; i++)
 		instance_create_layer(offset * i + xstart, offset * j + ystart, 0, o_Gem);
 	}
 }
+
+alarm[0] = 20;
